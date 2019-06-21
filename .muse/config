@@ -1,0 +1,3 @@
+tools = [ ]
+customTools = [ "https://docs.muse.dev/scripts/eslint.sh"
+              ]
